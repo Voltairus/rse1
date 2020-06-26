@@ -1,7 +1,0 @@
-{
-  "parent": "block/door_top_rh",
-  "textures": {
-    "bottom": "rse1:blocks/tent_door_bottom",
-    "top": "rse1:blocks/tent_door_top"
-  }
-}
