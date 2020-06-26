@@ -1,0 +1,16 @@
+{
+  "scanner_beep": {
+    "category": "item",
+    "subtitle": "rse1.subtitle.scanner_beep",
+    "sounds": [ "rse1:item/scanner_beep" ]
+  },
+  "disc_tundra": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "rse1:records/disc_tundra",
+        "stream": true
+      }
+    ]
+  }
+}

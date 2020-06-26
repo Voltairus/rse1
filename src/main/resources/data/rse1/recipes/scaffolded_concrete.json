@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rse1:reinforced_concrete"
+    }
+  ],
+  "result":
+  {
+    "item": "rse1:scaffolded_concrete",
+    "count": 1
+  }
+}

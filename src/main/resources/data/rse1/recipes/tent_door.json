@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "nx",
+    "xx",
+    "nx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:white_wool"
+    },
+    "n":
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "rse1:tent_door",
+    "count": 1
+  }
+}

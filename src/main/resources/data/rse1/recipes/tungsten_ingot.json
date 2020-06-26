@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rse1:tungsten_block"
+    }
+  ],
+  "result":
+  {
+    "item": "rse1:tungsten_ingot",
+    "count": 9
+  }
+}
