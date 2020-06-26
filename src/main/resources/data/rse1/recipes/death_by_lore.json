@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xgx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "rse1:tungsten_block"
+    },
+    "g":
+    {
+      "item": "rse1:strange_glyph"
+    }
+  },
+  "result":
+  {
+    "item": "rse1:death_by_lore",
+    "count": 1
+  }
+}

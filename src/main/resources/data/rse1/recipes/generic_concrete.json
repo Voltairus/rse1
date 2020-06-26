@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "gsg",
+    "sws",
+    "csc"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:sand"
+    },
+    "w":
+    {
+      "item": "minecraft:water_bucket"
+    },
+    "g":
+    {
+      "item": "minecraft:gravel"
+    },
+    "c":
+    {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result":
+  {
+    "item": "rse1:generic_concrete",
+    "count": 8
+  }
+}
